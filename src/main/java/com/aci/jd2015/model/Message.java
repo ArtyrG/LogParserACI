@@ -2,12 +2,14 @@ package com.aci.jd2015.model;
 
 import java.util.Date;
 
-public class Message implements Comparable<Message>{
+public class Message implements Comparable<Message> {
 
 	private final Date datetime;
 	private final String message;
+
+	// Arrthkjdgbkl;gjn;tywryfgggs
 	
-	//Arrthkjdgbkl;gjn;
+	//afgvasdgadg
 
 	public Message(Date datetime, String message) {
 		this.datetime = datetime;
