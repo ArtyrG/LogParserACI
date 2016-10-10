@@ -6,6 +6,8 @@ public class Message implements Comparable<Message>{
 
 	private final Date datetime;
 	private final String message;
+	
+	//Arrthkjdgbkl;gjn;
 
 	public Message(Date datetime, String message) {
 		this.datetime = datetime;
